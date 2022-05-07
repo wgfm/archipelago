@@ -1,0 +1,2 @@
+# archipelago
+A distributed cache
